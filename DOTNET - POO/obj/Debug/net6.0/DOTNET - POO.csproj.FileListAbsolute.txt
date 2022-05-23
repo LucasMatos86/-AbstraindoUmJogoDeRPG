@@ -1,0 +1,15 @@
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\DOTNET - POO.csproj.AssemblyReference.cache
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\DOTNET - POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\DOTNET - POO.AssemblyInfoInputs.cache
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\DOTNET - POO.AssemblyInfo.cs
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\DOTNET - POO.csproj.CoreCompileInputs.cache
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\bin\Debug\net6.0\DOTNET - POO.exe
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\bin\Debug\net6.0\DOTNET - POO.deps.json
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\bin\Debug\net6.0\DOTNET - POO.runtimeconfig.json
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\bin\Debug\net6.0\DOTNET - POO.dll
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\bin\Debug\net6.0\DOTNET - POO.pdb
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\DOTNET - POO.dll
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\refint\DOTNET - POO.dll
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\DOTNET - POO.pdb
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\DOTNET - POO.genruntimeconfig.cache
+D:\Usuários\Lucas Matos\Documents\GitHub\DOTNET - POO\obj\Debug\net6.0\ref\DOTNET - POO.dll
